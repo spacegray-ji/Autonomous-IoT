@@ -1,0 +1,9 @@
+.idea
+checkpoints/*
+**/*.pyc
+
+!**/.keep
+!checkpoints/*.net
+
+*.out
+*.bak
